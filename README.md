@@ -37,3 +37,5 @@ plot(avg_price_per_year, type = "l", col = "blue",
 points(med_price_per_year, type = "l", col = "red")
 legend("topleft", inset=c(0.2,0), legend=c("Average","Median"), lty=c(1,1), col=c("blue", "red"))
 ```
+
+Adding a line to README
